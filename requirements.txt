@@ -1,0 +1,7 @@
+streamlit
+requests
+langdetect
+transformers
+torch
+sentencepiece
+numpy<2
